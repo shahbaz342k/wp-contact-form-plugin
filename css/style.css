@@ -1,0 +1,15 @@
+.label {margin: 2px 0;}
+.field {margin: 0 0 20px 0;}	
+#message {  padding: 0px 40px 0px 0px; }
+#form-status {
+	padding: 12px 20px;
+	width: 100%;
+	display:none; 
+	font-size: 1em;
+	font-family: "Georgia", Times, serif;
+	color: rgb(40, 40, 40);
+}
+.error{background-color: #e5a3a9;}
+.success{background-color: #9ae7acd6; }
+	  
+	
